@@ -1,0 +1,66 @@
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    box-shadow: 4px 2px 5px black;
+    /* transform: 0.5s; */
+}
+.a1:hover{
+    box-shadow: 2px 2px 2px white;
+    transform: scale(1.2);
+    transition: all 0.9s ;
+}
+
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+      box-shadow: 4px 2px 5px black;
+}
+.a2:hover{
+    box-shadow: 2px 2px 2px white;
+    transform: scale(1.2);
+    transition: all 0.9s ;
+    }
+
+.a3{
+
+    width: 100px;
+    height: 100px;
+    background-color: green;
+      box-shadow: 4px 2px 5px black;
+}
+.a3:hover{
+    box-shadow: 2px 2px 2px white;
+    transform: scale(1.2);
+    transition: all 0.9s ;
+}
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+      box-shadow: 4px 2px 5px black;
+}
+.a4:hover{
+    box-shadow: 2px 2px 2px white;
+    transform: scale(1.2);
+    transition: all 0.9s ;
+}
+.a5{    
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+      box-shadow: 4px 2px 5px black;
+}       
+.a5:hover{
+    box-shadow: 2px 2px 2px white;
+    transform: scale(1.2);
+    transition: all 0.9s ;
+}
+.content{
+    display: flex;
+    gap: 10px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100vh;
+}
